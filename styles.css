@@ -1,0 +1,15 @@
+.btn-box{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    padding: 15px;
+}
+
+.btn{
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: #073309;
+    color: azure;
+}
