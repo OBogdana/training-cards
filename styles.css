@@ -1,15 +1,36 @@
-.btn-box{
+
+.gamesBox {
+    margin: 5px;
+    padding: 5px;
+    height: 90vh;
+    width: 70vw;
+    border-radius: 20px;
+    background-color: rgba(151, 161, 151, 0.72);
+}
+
+.gamesListBox{
+    margin: 5px;
+    padding: 5px;
+}
+
+.gamesList {
+    list-style-type: circle;
+
+}
+
+.btn-box {
     display: flex;
     justify-content: center;
     margin: 15px;
     padding: 15px;
 }
 
-.btn{
+.btn {
     height: 50px;
     width: 200px;
     font-size: 20px;
     border-radius: 20px;
     background-color: #073309;
     color: azure;
+    cursor: pointer;
 }
