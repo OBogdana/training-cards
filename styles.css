@@ -8,6 +8,11 @@
     background-color: rgba(151, 161, 151, 0.72);
 }
 
+.gamesListBox{
+    margin: 5px;
+    padding: 5px;
+}
+
 .gamesList {
     list-style-type: circle;
 
